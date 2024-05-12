@@ -29,7 +29,7 @@
 
 <li>
 <a href="www.linkedin.com/in/santiago-garcía-garzon-g23g08" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  sxngg-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Santiago Garcia-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -38,9 +38,7 @@
 <br>
 
 <li>
-<a href="santiagogarciagarzon.8@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Santiago-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+<img src="https://img.shields.io/badge/gmail:  santiagogarciagarzon.8@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </li>
 	
 </ul>
